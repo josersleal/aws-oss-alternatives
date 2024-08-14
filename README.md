@@ -15,7 +15,7 @@ DynamoDB                | NoSQL database            | [Apache Cassandra](https:/
 ElastiCache             | In-memory cache           | [Memcached](https://www.memcached.org/), [Redis](https://redis.io/)
 Neptune                 | Graph database            | [Neo4j](https://neo4j.com/)
 Amazon Redshift         | Data warehousing          | [Spark SQL](https://spark.apache.org/sql/), [Apache Hive](https://hive.apache.org/), [Presto](https://prestodb.github.io/)
-Amazon QLDB             | Ledger database
+Amazon QLDB             | Ledger database           | [[imudb](https://immudb.io/)
 Amazon DocumentDB       | Document database         | [MongoDB](https://www.mongodb.com/)
 Athena                  | Data warehousing          | [Spark SQL](https://spark.apache.org/sql/), [Apache Hive](https://hive.apache.org/), [Presto](https://prestodb.github.io/)
 EMR                     | Hadoop / Spark            | [Apache Spark](https://spark.apache.org/)
